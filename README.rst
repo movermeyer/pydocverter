@@ -3,7 +3,7 @@ pydocverter
 
 Python client for Docverter_ service
 
-.. image:: https://pypip.in/version/pydocverter/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/v/pydocverter.svg?style=flat
     :target: https://pypi.python.org/pypi/pydocverter/
     :alt: Latest Version
     
